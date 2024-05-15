@@ -15,7 +15,7 @@ To get started with this project, follow these steps:
     cd php-test-project
     ```
 
-3. Follow the instructions provided above to run each file.
+3. Follow the instructions provided below to run each file.
 
 ## Files
 
